@@ -320,7 +320,7 @@ main > .section:first-of-type {
 main > .section.highlight,
 main > .highlight.section,
 main .highlight.section.cards-container {
-  background-color: #f4f7fb;
+  background-color: red;
   padding: 40px 0;
   box-sizing: border-box;
 }
