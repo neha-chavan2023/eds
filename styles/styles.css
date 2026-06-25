@@ -317,23 +317,14 @@ main > .section:first-of-type {
 }
 
 /* highlight section style */
-main > .section.highlight,
+/* main > .section.highlight,
 main > .highlight.section,
 main .highlight.section.cards-container {
   background-color: red;
   padding: 40px 0;
   box-sizing: border-box;
-}
+} */
 
-main > .section.highlight > div,
-main > .highlight.section > div,
-main .highlight.section.cards-container > div {
-  padding-top: 0;
-  padding-bottom: 0;
-}
 
-main .highlight.section.cards-container {
-  margin: 40px 0;
-}
 
 /* section metadata */
