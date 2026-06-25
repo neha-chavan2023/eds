@@ -274,7 +274,7 @@ button.button.accent:disabled,
 button.button.accent:disabled:hover,
 button.button.accent:disabled:focus-visible {
   background-color: var(--light-color);
-  border-color: var(--light-color);
+  border-color: var(--light-color); 
   color: var(--dark-color);
 }
 
@@ -324,7 +324,7 @@ main .highlight.section.cards-container {
   padding: 40px 0;
   box-sizing: border-box;
 }
- .section.highlight { background:yellow}
+
 main > .section.highlight > div,
 main > .highlight.section > div,
 main .highlight.section.cards-container > div {
