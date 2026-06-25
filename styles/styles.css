@@ -316,4 +316,15 @@ main > .section:first-of-type {
   }
 }
 
+/* highlight section style */
+main > .section.highlight {
+  background-color: red;
+  padding: 40px 0;
+}
+
+main > .section.highlight > div {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
 /* section metadata */
